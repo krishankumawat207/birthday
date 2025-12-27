@@ -60,7 +60,7 @@ export default function WelcomeScreen({ onStart }: { onStart: () => void }) {
 
         {/* Main welcome text */}
         <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-pink-500 to-purple-600 bg-clip-text text-transparent">
-          Welcome My Love
+          Welcome My Shanu
         </h1>
 
         <p className="text-xl md:text-2xl text-gray-700 mb-2 max-w-2xl">
@@ -185,5 +185,3 @@ export default function WelcomeScreen({ onStart }: { onStart: () => void }) {
     </div>
   );
 }
-
-// shanu

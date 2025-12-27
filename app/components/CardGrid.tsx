@@ -12,13 +12,13 @@ const cardData = [
     emojis: ["💝", "✨", "🎂"],
     color: "#FF6B8B",
   },
-  {
-    title: "A Beautiful Memory 🫂",
-    message:
-      "Remember that time we stayed up all night talking and watching the sunrise? Those moments are the ones I cherish the most. Here's to many more adventures together!",
-    emojis: ["🌅", "🤗", "🌟"],
-    color: "#4ECDC4",
-  },
+  // {
+  //   title: "A Beautiful Memory 🫂",
+  //   message:
+  //     "Remember that time we stayed up all night talking and watching the sunrise? Those moments are the ones I cherish the most. Here's to many more adventures together!",
+  //   emojis: ["🌅", "🤗", "🌟"],
+  //   color: "#4ECDC4",
+  // },
   {
     title: "Your Amazing Qualities ✨",
     message:
@@ -26,13 +26,13 @@ const cardData = [
     emojis: ["💪", "😂", "❤️"],
     color: "#45B7D1",
   },
-  {
-    title: "Friendship Quote 💫",
-    message:
-      "A true friend is the greatest of all blessings. Thank you for being my confidant, my partner in crime, and my greatest supporter.",
-    emojis: ["🤝", "🎭", "🏆"],
-    color: "#96CEB4",
-  },
+  // {
+  //   title: "Friendship Quote 💫",
+  //   message:
+  //     "A true friend is the greatest of all blessings. Thank you for being my confidant, my partner in crime, and my greatest supporter.",
+  //   emojis: ["🤝", "🎭", "🏆"],
+  //   color: "#96CEB4",
+  // },
   {
     title: "Wishes for You 🌈",
     message:
